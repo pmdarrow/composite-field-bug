@@ -1,0 +1,4 @@
+Django==1.8.4
+django-composite-field==0.6.0
+djangorestframework==3.2.3
+wheel==0.24.0
